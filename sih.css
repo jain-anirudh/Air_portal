@@ -1,0 +1,107 @@
+#user_id
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 1.3em;
+  padding: 5px 15px;
+  align: center;
+  background-color: #bcdbdb;
+  box-shadow: 5px 2px 2px #888888;
+
+}
+#user_name
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 1.3em;
+  padding: 5px 15px;
+  align: right;
+  background-color: #bcdbdb;
+  box-shadow: 5px 2px 2px #888888;
+}
+
+#flight
+{
+  width: 50%;
+/*background-color: #3CBC8D; */
+  font-size: 1.3em;
+  padding: 5px 15px;
+  align: center;
+  background-color: #bcdbdb;
+  box-shadow: 5px 2px 2px #888888;
+
+}
+#save
+{
+  width: 20%;
+/*background-color: #3CBC8D; */
+  font-size: 1.3em;
+  padding: 5px 15px;
+  align: right;
+  color: #8c7815;
+  background-color: #f0f000;
+  box-shadow: 5px 2px 2px #888888;
+  cursor: pointer;
+}
+#delete
+{
+  width: 20%;
+/*background-color: #3CBC8D; */
+  font-size: 1.3em;
+  padding: 5px 15px;
+  align: right;
+  color: #8c7815;
+  background-color: #f0f000;
+  box-shadow: 5px 2px 2px #888888;
+  cursor: pointer;
+}
+#update
+{
+  width: 20%;
+/*background-color: #3CBC8D; */
+  font-size: 1.3em;
+  padding: 5px 15px;
+  align: right;
+  color: #8c7815;
+  background-color: #f0f000;
+  box-shadow: 5px 2px 2px #888888;
+  cursor: pointer;
+}
+p
+{
+  color: red;
+}
+h1
+{
+  text-align: center;
+  color: #000066;
+}
+body{
+  /*background-image: url("http://bestanimations.com/Transport/Aircraft/plane-travel-animated-gif-16.gif");
+  background-image: :url("http://cdn.firstwefeast.com/assets/2015/01/gmgd3.gif");*/
+  background-color: inherit;
+  background-repeat: no-repeat;
+  background-position:top;
+  background-size: 1040px 150px;
+
+}
+option {
+  width: 50%;
+}
+
+button{
+  background: #0066A2;
+  color:white;
+  border-style: outset;
+  border-color: #0066A2;
+  height: 50px;
+  width: 100px;
+  font: bold 15px arial, sans-serif;
+  text-shadow:none;
+  align-self: center;
+  cursor: pointer;
+}
+
+.wrapper{
+  text-align: center;
+}
