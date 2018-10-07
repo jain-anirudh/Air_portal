@@ -86,12 +86,7 @@ if ($json["status"]==="success") {
   var childData = childSnapshot.val();
 //  var childNo. = childSnapshot.val();
 
-   //var row = tblUsers.insertRow(rowIndex);
-  // var cellId = row.insertCell(0);
-  // var cellName = row.insertCell(1);
-  // cellId.appendChild(document.createTextNode(childKey));
-   //cellName.appendChild(document.createTextNode(childData.user_name));
-
+  
    rowIndex = rowIndex + 1;
     });
   });
